@@ -13,7 +13,7 @@
         <h2>Erreur 404</h2>
         <img src="img/404.jpg">
         <h3>Euh, la page demandée est introuvable !</h3>
-        <h3>Le mieux est de retourner à <a href="/">l'accueil</a>.</h3>
+        <h3>Le mieux est de retourner à <a href="./">l'accueil</a>.</h3>
     </main>
 </body>
 </html>
