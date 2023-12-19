@@ -1,5 +1,5 @@
 <nav id="nav-bar">
-    <a href="/">Accueil</a>
+    <a href="./">Accueil</a>
     <a href="?p=geo">Géographie</a>
     <a href="?p=hist">Histoire</a>
     <a href="?p=cult">Culture</a>
